@@ -1,0 +1,33 @@
+.person {
+  margin-top: 10px;
+}
+
+.person.name-title {
+  margin-top: 0%;
+  margin-bottom: 1px;
+  display: inline;
+}
+
+.person.name {
+  display: inline;
+}
+
+.person.board {
+  margin-bottom: 20px;
+  display: inline-block;
+  border: solid 4px #ccc;
+}
+
+.person.spending-title {
+  text-align: left;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+.person.sum-title {
+  display: inline;
+}
+
+.person.sum{
+  display: inline;
+}
